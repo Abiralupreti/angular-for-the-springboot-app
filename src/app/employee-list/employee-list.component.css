@@ -1,0 +1,11 @@
+    body{
+        font-family: 'Cookie', cursive;
+        font-size: x-large;
+    }
+    .header{
+        height: 90vh;
+        width: 100%;
+        background: linear-gradient(to right, rgba(88, 79, 209, 0.5), rgba(12, 189, 130, 0.5)) ,url(/Users/sunderkrishnaupreti/Desktop/Programming/angular/angular10/angular-frontend/src/pexels-selim-şendal-8985376.jpg);
+        color: white;
+        background-size: cover;
+    }
